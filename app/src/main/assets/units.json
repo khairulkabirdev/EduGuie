@@ -1,0 +1,16 @@
+[
+  { "subjectId": "c6_english", "id": "c6_eng_u1", "name": "Unit 1: Parts of Speech Mastery" },
+  { "subjectId": "c6_english", "id": "c6_eng_u2", "name": "Unit 2: Paragraph Writing & Reading" },
+  
+  { "subjectId": "c7_english", "id": "c7_eng_u1", "name": "Unit 1: Verb Tenses & Usage" },
+  { "subjectId": "c7_english", "id": "c7_eng_u2", "name": "Unit 2: Creative & Descriptive Writing" },
+  
+  { "subjectId": "c8_english", "id": "c8_eng_u1", "name": "Unit 1: Active & Passive Voice Structures" },
+  { "subjectId": "c8_english", "id": "c8_eng_u2", "name": "Unit 2: Reading Comprehension & Vocabulary" },
+  
+  { "subjectId": "c9_english", "id": "c9_eng_u1", "name": "Unit 1: Direct & Indirect Narration" },
+  { "subjectId": "c9_english", "id": "c9_eng_u2", "name": "Unit 2: Board Exam Essay & Letter Formats" },
+  
+  { "subjectId": "c11_english", "id": "c11_eng_u1", "name": "Unit 1: Advanced Clauses & Rhetoric" },
+  { "subjectId": "c11_english", "id": "c11_eng_u2", "name": "Unit 2: Thesis Formulation & Technical Writing" }
+]

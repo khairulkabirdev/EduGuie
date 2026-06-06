@@ -1,0 +1,21 @@
+[
+  { "unitId": "c6_eng_u1", "id": "c6_eng_u1_l1", "name": "Lesson 1: Nouns & Pronouns Classification" },
+  { "unitId": "c6_eng_u1", "id": "c6_eng_u1_l2", "name": "Lesson 2: Adjectives & Adverbs Essentials" },
+  { "unitId": "c6_eng_u2", "id": "c6_eng_u2_l1", "name": "Lesson 1: Structuring a Unified Paragraph" },
+  
+  { "unitId": "c7_eng_u1", "id": "c7_eng_u1_l1", "name": "Lesson 1: Mastering the Present Tenses" },
+  { "unitId": "c7_eng_u1", "id": "c7_eng_u1_l2", "name": "Lesson 2: Past Tense Formations & Irregular Verbs" },
+  { "unitId": "c7_eng_u2", "id": "c7_eng_u2_l1", "name": "Lesson 1: Choosing Sensory Details for Imagery" },
+  
+  { "unitId": "c8_eng_u1", "id": "c8_eng_u1_l1", "name": "Lesson 1: Converting Active Voice to Passive" },
+  { "unitId": "c8_eng_u1", "id": "c8_eng_u1_l2", "name": "Lesson 2: Formal Voice Rules in Reports" },
+  { "unitId": "c8_eng_u2", "id": "c8_eng_u2_l1", "name": "Lesson 1: Context Clues & Homophones Expansion" },
+  
+  { "unitId": "c9_eng_u1", "id": "c9_eng_u1_l1", "name": "Lesson 1: Reporting Statement Shifts & Backshifting" },
+  { "unitId": "c9_eng_u1", "id": "c9_eng_u1_l2", "name": "Lesson 2: Reporting Interrogatives & Imperatives" },
+  { "unitId": "c9_eng_u2", "id": "c9_eng_u2_l1", "name": "Lesson 1: Formal Letter Layout to Newspapers" },
+  
+  { "unitId": "c11_eng_u1", "id": "c11_eng_u1_l1", "name": "Lesson 1: Subordinate & Coordinate Clauses Analysis" },
+  { "unitId": "c11_eng_u1", "id": "c11_eng_u1_l2", "name": "Lesson 2: Rhetorical Devices: Metaphor, Anaphora, & Parallelism" },
+  { "unitId": "c11_eng_u2", "id": "c11_eng_u2_l1", "name": "Lesson 1: Writing Complex Logical Thesis Arguments" }
+]

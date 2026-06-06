@@ -1,0 +1,42 @@
+[
+  {
+    "classNum": 6,
+    "className": "Class 6 - Foundation",
+    "description": "Essential English grammar basics covering parts of speech, vocabulary, and paragraph construction.",
+    "subjects": [
+      { "id": "c6_english", "name": "English Language", "icon": "English" }
+    ]
+  },
+  {
+    "classNum": 7,
+    "className": "Class 7 - Intermediate",
+    "description": "Fortifying language skills with verb tenses, voice models, and descriptive writing workshops.",
+    "subjects": [
+      { "id": "c7_english", "name": "English Language", "icon": "English" }
+    ]
+  },
+  {
+    "classNum": 8,
+    "className": "Class 8 - Progressive",
+    "description": "Advanced clause structures, idioms, narrative composing, and reading comprehension.",
+    "subjects": [
+      { "id": "c8_english", "name": "English Language", "icon": "English" }
+    ]
+  },
+  {
+    "classNum": 9,
+    "className": "Class 9-10 - Secondary School",
+    "description": "High school Board syllabus covering direct-indirect narration, letters, and essay writing formats.",
+    "subjects": [
+      { "id": "c9_english", "name": "English Language", "icon": "English" }
+    ]
+  },
+  {
+    "classNum": 11,
+    "className": "Class 11-12 - Higher Secondary",
+    "description": "Pre-university curriculum covering syntax alignment, rhetorical logic, and premium essay construction.",
+    "subjects": [
+      { "id": "c11_english", "name": "English Language", "icon": "English" }
+    ]
+  }
+]

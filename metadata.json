@@ -1,0 +1,6 @@
+{
+  "name": "EduGuide",
+  "description": "An interactive guidebook learning app for Class 6-12 students with lesson viewers, offline resources, progress checklists, rewards and custom ad components.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
