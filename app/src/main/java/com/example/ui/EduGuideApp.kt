@@ -255,12 +255,7 @@ fun EduGuideApp(viewModel: EduViewModel) {
                 )
             )
         },
-        bottomBar = {
-            AdBannerComponent(onAdClicked = {
-                viewModel.simulateAdBonusPoints()
-                Toast.makeText(context, "🏆 +100 Ad Bonus Points added to checklist rewards!", Toast.LENGTH_LONG).show()
-            })
-        }
+
     ) { innerPadding ->
         Box(
             modifier = Modifier
